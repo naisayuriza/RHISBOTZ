@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "RHISBOTZ",
   "version": "0.0.1",
-  "description": "crewbot",
+  "description": "RHISHNA",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "denpa",
+  "author": "RHISHNA",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -53,10 +53,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/dnsbot.git"
+    "url": "git+https://github.com/naisayuriza/RHISBOTZ.git"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/dnsbot/issues"
+    "url": "https://github.com/naisayuriza/RHISBOTZ/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/dnsbot#readme"
+  "homepage": "https://github.com/naisayuriza/RHISBOTZ#readme"
 }
